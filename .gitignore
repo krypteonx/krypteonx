@@ -1,0 +1,15 @@
+/.vscode
+/src/Core/obj
+/src/Execution/bin
+/src/Execution/obj
+/src/Networking/bin
+/src/Networking/obj
+/src/Node/bin
+/src/Node/obj
+/src/Storage/obj
+/tests/Krypteonx.Tests/bin
+/tests/Krypteonx.Tests/obj
+/src/Consensus/obj
+/src/Core/bin
+/src/Consensus/bin
+/src/Storage/bin
